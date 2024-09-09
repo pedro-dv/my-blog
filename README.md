@@ -4,4 +4,5 @@
 
 tecnologias adicionais : 
 
-HTML, CSS, BOOTSTRAP, PYTHON 
+frontend = HTML, CSS, JAVASCRIPT e BOOTSTRAP 
+backend = PYTHON
